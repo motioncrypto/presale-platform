@@ -1,6 +1,9 @@
 Motion Presale Platform
 ----------
 
+![Motion Presale Platform](https://firebasestorage.googleapis.com/v0/b/motion-website.appspot.com/o/presale-platform.png?alt=media&token=17c6db0f-e634-4d04-9f09-d10bab5d7313)
+
+
 # Description
 
 Motion Presale Platform is an open source version of the actual Masternode Presale platform used by MotionProject.
