@@ -1,0 +1,35 @@
+{
+  "backendUrl": "",
+  "coinWebpage": "",
+  "discordUrl": "",
+  "databaseUrl": "",
+  "blockchaininfo": {
+    "xpub": "",
+    "apiKey": ""
+  },
+  "gmail": {
+    "user": "",
+    "password": "",
+    "notificationsEmail": ""
+  },
+  "coin": {
+    "name": "Motion",
+    "rpcusername": "",
+    "rpcpassword": "",
+    "rpcport": ""
+  },
+  "price": 0.3,
+  "collateral": 1000,
+  "sellAmount": 30,
+  "firebase": {
+    "apiKey": "AIzaSyBZDEBewsl41WHBuFMQ1Nfo4vgYVMWlQF4",
+    "authDomain": "motion-presell.firebaseapp.com",
+    "databaseURL": "https://motion-presell.firebaseio.com",
+    "projectId": "motion-presell"
+  },
+  "presale": {
+    "initDateYear": 2018,
+    "initDateMonth": 5,
+    "initDateDay": 6
+  }
+}
